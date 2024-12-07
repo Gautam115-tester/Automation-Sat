@@ -1,0 +1,38 @@
+16:29:40.483 [main] FATAL   com.Logger.LoggerDemo -This is an fatal
+16:29:40.487 [main] ERROR   com.Logger.LoggerDemo -This is an error code
+16:29:40.487 [main] WARN    com.Logger.LoggerDemo -This is an warn code
+16:29:40.488 [main] INFO    com.Logger.LoggerDemo -This is an info code
+16:29:40.488 [main] DEBUG   com.Logger.LoggerDemo -This is an debug code
+16:29:40.488 [main] TRACE   com.Logger.LoggerDemo -This is an trace code
+16:29:57.573 [main] FATAL   com.Logger.LoggerDemo -This is an fatal
+16:29:57.577 [main] ERROR   com.Logger.LoggerDemo -This is an error code
+16:29:57.578 [main] WARN    com.Logger.LoggerDemo -This is an warn code
+16:29:57.579 [main] INFO    com.Logger.LoggerDemo -This is an info code
+16:29:57.579 [main] DEBUG   com.Logger.LoggerDemo -This is an debug code
+16:29:57.579 [main] TRACE   com.Logger.LoggerDemo -This is an trace code
+16:33:07.148 [main] FATAL   com.Logger.LoggerDemo -This is an fatal
+16:33:07.153 [main] ERROR   com.Logger.LoggerDemo -This is an error code
+16:33:07.154 [main] WARN    com.Logger.LoggerDemo -This is an warn code
+16:33:07.154 [main] INFO    com.Logger.LoggerDemo -This is an info code
+16:33:07.154 [main] DEBUG   com.Logger.LoggerDemo -This is an debug code
+16:33:07.154 [main] TRACE   com.Logger.LoggerDemo -This is an trace code
+17:30:31.862 [main] INFO    com.Logger.SauceDemo -Chrome browser has been launch
+17:30:33.546 [main] INFO    com.Logger.SauceDemo -user ha open saucedemo site.
+17:30:33.899 [main] INFO    com.Logger.SauceDemo -In username field 'standard_user' has been enter.
+17:30:34.084 [main] INFO    com.Logger.SauceDemo -In password field 'secret_sauce' has been enter.
+17:30:34.806 [main] INFO    com.Logger.SauceDemo -user click on login button.
+17:30:34.902 [main] INFO    com.Logger.SauceDemo -Click on menu button.
+17:30:35.083 [main] INFO    com.Logger.SauceDemo -click on logout button.
+17:30:47.617 [main] INFO    com.Logger.SauceDemo -Chrome browser has been launch
+17:30:50.268 [main] INFO    com.Logger.SauceDemo -user ha open saucedemo site.
+17:30:50.510 [main] INFO    com.Logger.SauceDemo -In username field 'standard_user' has been enter.
+17:30:50.661 [main] INFO    com.Logger.SauceDemo -In password field 'secret_sauce' has been enter.
+17:30:50.843 [main] INFO    com.Logger.SauceDemo -user click on login button.
+17:30:50.986 [main] INFO    com.Logger.SauceDemo -Click on menu button.
+17:30:51.176 [main] INFO    com.Logger.SauceDemo -click on logout button.
+17:32:09.284 [main] INFO    com.Logger.SauceDemo -Chrome browser has been launch
+17:32:09.930 [main] INFO    com.Logger.SauceDemo -user has open saucedemo site.
+17:32:10.126 [main] INFO    com.Logger.SauceDemo -In username field 'locked_out_user' has been enter.
+17:32:10.259 [main] INFO    com.Logger.SauceDemo -In password field 'secret_sauce' has been enter.
+17:32:10.398 [main] INFO    com.Logger.SauceDemo -user click on login button.
+17:32:12.081 [main] ERROR   com.Logger.SauceDemo -user unable to login.

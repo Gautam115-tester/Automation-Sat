@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-07T16:04:01 IST" name="Suite" finished-at="2024-12-07T16:04:21 IST" duration-ms="19761">
+    <groups>
+    </groups>
+    <test started-at="2024-12-07T16:04:01 IST" name="firefoxBrowser" finished-at="2024-12-07T16:04:13 IST" duration-ms="11472">
+      <class name="com.TestNG.CrossBrowsingTesting">
+        <test-method signature="GoogleSearch(java.lang.String)[pri:0, instance:com.TestNG.CrossBrowsingTesting@47d9a273]" started-at="2024-12-07T16:04:01 IST" name="GoogleSearch" finished-at="2024-12-07T16:04:13 IST" duration-ms="11405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+      </class> <!-- com.TestNG.CrossBrowsingTesting -->
+    </test> <!-- firefoxBrowser -->
+    <test started-at="2024-12-07T16:04:13 IST" name="chromeBrowser" finished-at="2024-12-07T16:04:21 IST" duration-ms="8209">
+      <class name="com.TestNG.CrossBrowsingTesting">
+        <test-method signature="GoogleSearch(java.lang.String)[pri:0, instance:com.TestNG.CrossBrowsingTesting@6892b3b6]" started-at="2024-12-07T16:04:13 IST" name="GoogleSearch" finished-at="2024-12-07T16:04:21 IST" duration-ms="8206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+      </class> <!-- com.TestNG.CrossBrowsingTesting -->
+    </test> <!-- chromeBrowser -->
+  </suite> <!-- Suite -->
+</testng-results>
